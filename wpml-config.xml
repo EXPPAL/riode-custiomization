@@ -1,0 +1,21 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">riode_template</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="copy">_riode_demo</custom-field>
+    <custom-field action="copy">riode_imported_date</custom-field>
+    <custom-field action="ignore">riode_post_layout</custom-field>
+    <custom-field action="copy">used_widgets</custom-field>
+    <custom-field action="copy">riode_custom_tab_title_1st</custom-field>
+    <custom-field action="copy">riode_custom_tab_content_1st</custom-field>
+    <custom-field action="copy">riode_custom_tab_title_2nd</custom-field>
+    <custom-field action="copy">riode_custom_tab_content_2nd</custom-field>
+    <custom-field action="copy">riode_image_change_hover</custom-field>
+    <custom-field action="copy">riode_virtual_buy_time_text</custom-field>
+    <custom-field action="copy">riode_product_video_thumbnail_shortcode</custom-field>
+    <custom-field action="copy">riode_custom_tab_title</custom-field>
+    <custom-field action="copy">riode_template_type</custom-field>
+    <custom-field action="copy">riode_vc_google_fonts</custom-field>
+  </custom-fields>
+</wpml-config>
